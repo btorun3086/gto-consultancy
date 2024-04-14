@@ -1,0 +1,85 @@
+{
+    "title":"Global Trade Organization",
+    "tell_more_button":"DAHA FAZLASI",
+    "aboutus": {
+        "title": "Hakkımızda",
+        "body": "GTO Consultancy olarak Gaziantep'de faaliyet gösteren firmamız, hem Gaziantep çevresinde, hem de Türkiye genelinde, çeşitli üretim sektörlerindeki birçok firmanın ticari danışmanlığını yapmaktadır. Böylelikle, Türk markalarının ve firmalarının ihracat alanındaki tanınırlığını ve ticari faaliyetlerini arttırmasına katkı sunmaktadır.Dünyanın birçok ülkesinde iş bağlantıları bulunan firmamız Üretici ile müşteri arasında hızlı, güvenilir ve rantabl bir köprü kurarak Ülke ihracatına katkı sağlamak, hizmet verdiğimiz firmaların kurumsal bazda gelişimine yardımcı olmak ve dünya standartlarında üretim yapmalarına öncülük etmektedir."
+    },
+    "product_groups": {
+        "title": "Ürün Grupları",
+        "machine": {
+            "title": "MAKİNE",
+            "body": "Gıda işleme, dolum ve etiketleme makineleri başta olmak üzere daha birçok alanda makine tedarik etmekteyiz. Mekanik, yarı otomatik ve tam otomatik sistemlerin imalatından, kurulumuna kadar garantili ve güvenilir bir hizmet sunuyoruz."
+        },
+        "food": {
+            "title": "GIDA",
+            "body": "Kendi Üretimimiz olan Antep fıstığı başta olmak üzere zeytinyağı, ayçiçeği yağı, hububat gibi gıda ve tarım ürünleri tedarik ediyoruz.  Talep durumunda işinde en iyi tedarikçilerle görüşmeler yapıp, istenilen kalitede ürünü en uygun fiyatla tedarik etmekteyiz. En başından sonuna kadar sipariş, sevkiyat ve finansmanı takip ederek her iki taraf için de güvenilir ve kazançlı bir ticaret olanağı sunmaktayız."
+        },
+        "textile": {
+            "title": "TEKSTİL",
+            "body": "Ayakkabı, Halı, Triko gibi ev tekstilinden giyim eşyalarına kadar her türlü tekstil ürünlerinin üretiminde büyük bir pazar payına sahip olan, yerelde Gaziantep genelde Türkiye’nin ticaret potansiyelini en verimli şekilde kullanarak dünya çapında iş organizasyonları yapmaktayız."
+        },
+        "manufacturing_industry": {
+            "title": "İMALAT SANAYİ",
+            "body": "Özel Üretim Soğutucular, Benmari, Makine yedek parçaları, Fan ve Pervaneler, isteğe bağlı makine aksamları tedarik ediyoruz."
+        }
+    },
+    "services": {
+        "title": "Servisler",
+        "import_and_market_classifaction": {
+            "title": "İTHALAT VE İHRACAT DANIŞMANLIK HİZMETLERİ",
+            "product_and_market_classification": {
+                "title": "ÜRÜN VE PAZAR SINIFLANDIRMASI",
+                "body": "Ürününüzün ithalat ülkesine ve ihracat ülkesine göre doğru tanımlanmasını sağlıyoruz. Ürün ve hizmetlerinizi doğru şekilde sınıflandırmanıza yardımcı oluyor, en verimli Ürün ve Pazar uyumluluğunu yakalamaya çalışıyoruz."
+            },
+            "certification": {
+                "title": "SERTİFİKA",
+                "body": "Doğru dokümantasyon uluslararası ticaretin önemli bir parçasıdır. Bu bağlamda ilgili ülke mevzuatı, Türkiye mevzuatı, gerekli belge ve sertifikalar konusunda bizimle çalışarak, lisanssız ürün ihraç etme veya yasal yaptırımlara yol açabilecek ithalat riskiniz önemli ölçüde azalacaktır.."
+            },
+            "international_logistics": {
+                "title": "ULUSLARARASI LOJİSTİK",
+                "body": "Ürünlerin alıcıya sorunsuz bir şekilde ulaştırılması yani lojistik, uluslararası ticaretin en önemli unsurlarından biridir. Ürün türüne göre lojistik gereksinimlerinizi belirleyerek ürünleriniz için en uygun ve en hızlı taşıma yöntemini dikkatle değerlendirip karar vermeniz için öneriler sunuyoruz."
+            }
+        },
+        "product_and_market_inspection": {
+            "title": "ÜRÜN VE PAZAR DENETİMİ",
+            "product_and_market": {
+                "title": "ÜRÜN VE PAZAR",
+                "body": "We conduct market research for your business needs and prepare detailed reports on competing product prices, market shares and suppliers. At the same time, we search for reliable suppliers and quality products for your Product and Service needs and offer the best prices."
+            },
+            "reliable_supplier": {
+                "title": "GÜVENİLİR TEDARİKÇİ",
+                "body": "Aradığınız ürün veya hizmete en uygun tedarikçileri buluyoruz. Üretim, tedarik, kalite ve lojistik açısından işini iyi ve zamanında yapan güvenilir tedarikçilerle çalışıyoruz."
+            },
+            "quality_price_balance": {
+                "title": "KALİTE & FİYAT DENGESİ",
+                "body": "İstenilen kalitede ürünü en uygun fiyata temin edebilmek için pazar araştırması yapıyor, talep edilmesi halinde gerekli sertifikaları ve ürün numunelerini sağlıyoruz. Nihai üründe ve sektörde size birden fazla tedarikçi ve uygun maliyet ve faydalarla fiyat alternatifleri sunuyoruz."
+            },
+            "sectoral_area": {
+                "title": "SEKTÖREL ALAN",
+                "body": "Başta Krom Gıda Makineleri, Tekstil, Gıda, Tarım ve İmalat Sanayi olmak üzere üretim ve sanayi sektörlerinde hizmet vermekteyiz."
+            }
+        },
+        "trading_strategy": {
+            "title": "TİCARET STRATEJİSİ",
+            "reliable_partner": {
+                "title": "GÜVENİLİR ORTAK",
+                "body": "Müşterilerimizin iş stratejilerini belirlemelerine ve ticari kazanç elde etmelerine yardımcı oluyoruz. Hem müşterilerimiz hem de tedarikçilerimiz için gönül rahatlığıyla iş yapabilecekleri güvenilir firmalarla çalışıyoruz."
+            },
+            "new_markets": {
+                "title": "YENİ PAZARLAR",
+                "body": "Yeni pazarlara ihracat daha fazla satış, daha yüksek kar ve daha fazla müşteri fırsatı sunar. Dikkatlice hazırlanmış bir strateji, başarı şansını önemli ölçüde artırır."
+            },
+            "market_strategy": {
+                "title": "PAZAR STRATEJİSİ",
+                "body": "Başarılı ve karlı bir ithalat ve ihracatın vazgeçilmezi, pazar dinamiklerinden iyi yararlanarak, gerekli zamanlarda iyi ve hızlı hamleler yapmak, ürün ve hizmetleri pazar gereksinimlerine göre revize etmektir. GTO DANIŞMANLIK olarak ürünün müşteriye doğru kanallardan ulaştırılması veya doğru ürünün bulunması konusunda iş ortaklarımıza güçlü destek vermekteyiz."
+            }
+        }
+    },
+    "founder": {
+        "title": "Kurucu"
+    },
+    "contact": {
+        "title": "İletişim"
+    }
+}

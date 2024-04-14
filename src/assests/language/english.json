@@ -1,0 +1,85 @@
+{
+    "title": "Global Trade Organization",
+    "tell_more_button": "TELL ME MORE",
+    "aboutus": {
+        "title": "About Us",
+        "body": "Our company started service in 2019. Our company operating in Gaziantep as GTO Consultancy; around and Gaziantep, as well as in Turkey, it serves the commercial advisor to many companies in various production sectors. Thus, it contributes to increase the recognition and commercial activities of Turkish brands and companies in the field of export. Our company, which has business connections in many countries of the world, leads the way to contribute to the export of the country, help the companies we serve on a corporate basis and to make production at world standards by establishing a fast, reliable and profitable bridge between the manufacturer and the customer, help the companies we serve on a corporate basis and to make production at world standards."
+    },
+    "product_groups": {
+        "title": "Product Groups",
+        "machine": {
+            "title": "MACHINE",
+            "body": "We supply machines in many other fields, especially food processing, filling and labeling machines. We offer a guaranteed and reliable service from the manufacture of mechanical, semi-automatic and fully automatic systems to installation."
+        },
+        "food": {
+            "title": "FOOD",
+            "body": "We supply food and agricultural products such as olive oil, sunflower oil, cereals, especially our own production Pistachios. In case of demand, we negotiate with the best suppliers in the business and supply the desired quality product at the most affordable price. We offer a reliable and profitable trade opportunity for both parties by tracking orders, shipping and financing from the beginning to the end."
+        },
+        "textile": {
+            "title": "TEXTILE",
+            "body": "In the production of all kinds of textile products from the clothing home textiles such as shoe, carpet, knitwear which has a large market share, using locally Gaziantep generally Turkey's commercial potential in the most efficient way we make business organizations worldwide."
+        },
+        "manufacturing_industry": {
+            "title": "MANUFACTURING INDUSTRY",
+            "body": "We supply custom made Coolers, Bainmarie, Machine spare parts, Fans and Propellers, optional machine parts."
+        }
+    },
+    "services": {
+        "title": "Services",
+        "import_and_market_classifaction": {
+            "title": "IMPORT AND EXPORT CONSULTANCY SERVICES",
+            "product_and_market_classification": {
+                "title": "PRODUCT AND MARKET CLASSIFICATION",
+                "body": "We ensure that your product is correctly identified according to the import country and export country. We help you classify your products and services correctly and try to achieve the most efficient Product and Market compatibility."
+            },
+            "certification": {
+                "title": "CERTIFICATION",
+                "body": "Accurate documentation is an important part of international trade. In this context, the relevant country regulations, regulations of Turkey, on the necessary documents and certificates, by working with us, your risk of exporting a product without a license or an import risk that can lead to legal sanctions will be significantly reduced."
+            },
+            "international_logistics": {
+                "title": "INTERNATIONAL LOGISTICS",
+                "body": "Transportation of products to the buyer without any problems, namely logistics, is one of the most important elements of international trade.  Depending on the type of products, we offer suggestions for you to determine the logistic requirements and carefully evaluate and decide the most suitable and fastest transportation method for your products."
+            }
+        },
+        "product_and_market_inspection": {
+            "title": "PRODUCT AND MARKET INSPECTION",
+            "product_and_market": {
+                "title": "PRODUCT AND MARKET",
+                "body": "We conduct market research for your business needs and prepare detailed reports on competing product prices, market shares and suppliers. At the same time, we search for reliable suppliers and quality products for your Product and Service needs and offer the best prices."
+            },
+            "reliable_supplier": {
+                "title": "RELIABLE SUPPLIER",
+                "body": "We find the most suitable suppliers for the products or services you are looking for. We work with reliable suppliers who do their job well and on time in terms of production, supply, quality and logistics."
+            },
+            "quality_price_balance": {
+                "title": "QUALITY & PRICE BALANCE",
+                "body": "In order to supply the desired quality product at the most affordable price, we conduct a market research and provide the necessary certificates and product samples if requested. In the final product and industry, we offer you multiple suppliers and price alternatives with relevant costs and benefits."
+            },
+            "sectoral_area": {
+                "title": "SECTORAL AREA",
+                "body": "We provide services especially in the production and industrial sectors, primarily in Chrome Food Machinery, Textile, Food, Agriculture and Manufacturing Industry."
+            }
+        },
+        "trading_strategy": {
+            "title": "TRADING STRATEGY",
+            "reliable_partner": {
+                "title": "RELIABLE PARTNER",
+                "body": "We help our customers determine their business strategies and gain commercial gains. We work with reliable companies that they can do business with peace of mind for both our customers and suppliers. "
+            },
+            "new_markets": {
+                "title": "NEW MARKETS",
+                "body": "Exporting to new markets offers more sales, higher profits and more customer opportunities. A carefully crafted strategy significantly increases the chances of success."
+            },
+            "market_strategy": {
+                "title": "MARKET STRATEGY",
+                "body": "It is indispensable for a successful and profitable import and export, by making good and fast moves at necessary times by making good use of market dynamics, revising products and services according to market requirements. As GTO CONSULTANCY, we give strong support to our business partners in terms of delivering the product to the customer through the right channels or finding the right product."
+            }
+        }
+    },
+    "founder": {
+        "title": "Co-Founder"
+    },
+    "contact": {
+        "title": "contact us"
+    }
+}
